@@ -25,4 +25,4 @@ for linha in linhas:
         vazios_lista += 1
 print(vazios_texto, vazios_lista)
 
-aaa
+dinis
